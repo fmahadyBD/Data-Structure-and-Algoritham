@@ -2,7 +2,7 @@
 int main()
 {
     int a[5] = {1, 5, 7, 2, 3};
-    int i, j, tem;
+    int i, j, tem;// tem use for soter data for sawaping
     for (i = 1; i < 5; i++)
     {
         for (j = 0; j < 5 - i; j++)
