@@ -45,7 +45,9 @@ int main()
         c[temp] = c[temp] + 1;
  
     }
- 
+ /*We need to 3 array for sorting our data, !st is main array that we want to sort.. 2nd ei count the poision of numbar
+ and if find the number again then count ++; and printit by the conditon... we can use 3rd array or not.. in here we don't use
+ the 3rd logic*/
 
     printf("The result of counting sort: \n");
 
