@@ -1,3 +1,5 @@
+
+/*This code is fixed array in the code*/
 #include <stdio.h>
 int main()
 {
