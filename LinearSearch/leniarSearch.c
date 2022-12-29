@@ -14,7 +14,7 @@ int main()
         }
         else
         {
-           c++;
+           c++;// c is a counter.. we can take i for it also..
         }
     }
     if(c>=6){
