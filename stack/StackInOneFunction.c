@@ -52,6 +52,7 @@ for(int i=0;i<=top;i++){
     break;
 
 default:
+         return 0;
     break;
 }
 }
