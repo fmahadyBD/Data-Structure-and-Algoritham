@@ -5,6 +5,7 @@ int max;
 
 int push(){
 if(top==max){
+     printf("The Stack is not empty:\n");
     return 0;
 }else{
     top++;
@@ -18,6 +19,9 @@ if(top==max){
 int pop(){
     if(top==-1){
         printf("There is no element to pop\n");
+    }else{
+     top--:
+         printf("Successfully Pop the element:\n");
     }
 
 }
